@@ -78,7 +78,7 @@ F.prototype.run = function () {
 Other times you may wish to create a subclass of another constructor, but still be able to use the instances of that constructor as a fiber. I that case you would do the following:
 
 ```javascript
-var Fiber = require("./lib/fiber");
+var Fiber = require("fiber");
 var {continuation, suspension} = Fiber;
 var {Worker} = require("ringo/worker");
 
