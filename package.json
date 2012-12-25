@@ -1,0 +1,29 @@
+{
+    "name": "fiber",
+    "description": "A powerful, armor-plated fiber manager for JavaScript 1.7+. Fibers allow you to call asynchronous functions synchronously without losing any of the benefits of asynchronous style programming.",
+    "version": "1.0.0",
+    "keywords": ["fiber", "coroutine", "continuation", "generator", "cooperative", "scheduler", "bootstrap", "loader", "yield", "sleep", "join"],
+    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@myopera.com>",
+    "main": "lib/fiber.js",
+    "maintainers": [{
+        "name": "Aadit M Shah",
+        "email": "aaditmshah@myopera.com",
+        "web": "http://aaditmshah.github.com/"
+    }],
+    "contributors": [{
+        "name": "Aadit M Shah",
+        "email": "aaditmshah@myopera.com",
+        "web": "http://aaditmshah.github.com/"
+    }],
+    "bugs": "https://github.com/aaditmshah/fiber/issues",
+    "licenses": [{
+        "type": "GPLv3",
+        "url": "http://www.gnu.org/copyleft/gpl.html"
+    }],
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/aaditmshah/fiber.git"
+    }],
+    "dependencies": {},
+    "homepage": "https://github.com/aaditmshah/fiber"
+}
